@@ -5,15 +5,17 @@
         "dataF": "28-10-2023",
         "tipo": "manutencao",
         "firtTime": "0",
+	"versao": "0",
 	"msg": "Gostaríamos de informar que o servidor do PlantioCerto ficará indisponível a partir das 15h da próxima sexta-feira, dia 27/10, com previsão de retorno no domingo, 29/10. Durante este intervalo, o Data Center da Embrapa Agricultura Digital passará por uma manutenção na rede elétrica. Agradecemos sua compreensão."
     },
     {
 	"id": "2",
         "dataI": "14-11-2023",
         "dataF": "14-11-2023",
-        "tipo": "geral",
+        "tipo": "atualizacao",
+	"versao": "16.0.0",
         "firtTime": "0",
-	"msg": "\nApenas um outro texto para teste"
+	"msg": "\nUma nova versão do aplicativo está disponível."
     }
 ]
 
