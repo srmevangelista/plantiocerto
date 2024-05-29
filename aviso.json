@@ -5,7 +5,7 @@
         "dataF": "04-06-2024",
         "tipo": "manutencao",
         "firstTime": "0",
-        "versao": "3",
+        "versao": 3.0,
 	"msg": "Prezados usuários, informamos que o servidor do PlantioCerto estará indisponível a partir das 12h do dia 29/05, com previsão de retorno na terça-feira, 04/06. Durante esse período, o Data Center da Embrapa Agricultura Digital passará por manutenção em seus servidores.\nAgradecemos pela compreensão."
     },
     {
@@ -13,7 +13,7 @@
         "dataI": "28-10-2023",
         "dataF": "28-10-2023",
         "tipo": "geral",
-        "firstTime": "0",
+        "firstTime": 3.0,
         "versao": "3",
 	"msg": "\nApenas um outro texto para teste"
     }
