@@ -13,8 +13,8 @@
         "dataI": "28-10-2023",
         "dataF": "28-10-2023",
         "tipo": "geral",
-        "firstTime": 3.0,
-        "versao": "3",
+        "firstTime": "0",
+        "versao": 3.0,
 	"msg": "\nApenas um outro texto para teste"
     }
 ]
