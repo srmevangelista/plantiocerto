@@ -6,7 +6,7 @@
         "tipo": "manutencao",
         "firstTime": "0",
         "versao": 3.0,
-	"msg": "Prezados usuários, informamos que o servidor do PlantioCerto estará indisponível a partir das 12h do dia 29/05, com previsão de retorno na terça-feira, 04/06. Durante esse período, o Data Center da Embrapa Agricultura Digital passará por manutenção em seus servidores.\nAgradecemos pela compreensão."
+	"msg": "Prezados usuários, o servidor do Plantio Certo está temporariamente fora do ar para atualização da infraestrutura computacional, com previsão de retorno em 05/06/2024. Esta atualização tem como objetivo garantir que a API seja mais segura, estável e rápida.\nAgradecemos pela compreensão."
     },
     {
 	"id": "2",
