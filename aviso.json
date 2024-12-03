@@ -1,12 +1,12 @@
 [
     {
 	"id": "1",
-        "dataI": "03-06-2023",
-        "dataF": "05-06-2023",
+        "dataI": "03-12-2024",
+        "dataF": "12-12-2024",
         "tipo": "manutencao",
         "firstTime": "0",
         "versao": 3.0,
-	"msg": "Prezados usuários, o servidor do Plantio Certo está temporariamente fora do ar para atualização da infraestrutura computacional, com previsão de retorno em 05/06/2024. Esta atualização tem como objetivo garantir que a API seja mais segura, estável e rápida.\nAgradecemos pela compreensão."
+	"msg": "Em razão da reforma na cabine primária de energia elétrica que alimenta nosso Data Center, os serviços do aplicativo Zarc Plantio Certo estarão indisponíveis a partir das 17h do dia 8 de dezembro, com previsão de retorno em 12 de dezembro. \nAgradecemos pela compreensão e nos colocamos à disposição para eventuais dúvidas. \nEquipe Zarc Plantio Certo"
     },
     {
 	"id": "2",
