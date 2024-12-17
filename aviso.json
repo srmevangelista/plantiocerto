@@ -1,14 +1,13 @@
 [
-    {
+     {
 	"id": "1",
-        "dataI": "03-06-2023",
-        "dataF": "05-06-2023",
+        "dataI": "12-12-2024",
+        "dataF": "20-12-2024",
         "tipo": "manutencao",
         "firstTime": "0",
         "versao": 3.0,
-	"msg": "Prezados usuários, o servidor do Plantio Certo está temporariamente fora do ar para atualização da infraestrutura computacional, com previsão de retorno em 05/06/2024. Esta atualização tem como objetivo garantir que a API seja mais segura, estável e rápida.\nAgradecemos pela compreensão."
-    },
-    {
+	"msg": "Em razão da reforma na cabine primária de energia elétrica que alimenta nosso Data Center, os serviços do aplicativo Zarc Plantio Certo estarão indisponíveis a partir das 15h do dia 13 de dezembro, com previsão de retorno até o final do dia 19 de dezembro. \nAgradecemos pela compreensão. \nEquipe Zarc Plantio Certo. \n\nAo consultar o Zarc - Plantio Certo, o usuário obtém indicações das distintas taxas de risco (20%, 30% e 40%) de perdas decorrentes de eventos meteorológicos adversos. \n\nPara pesquisar os períodos de plantio: \nselecione um município e uma cultura."
+    },    {
 	"id": "2",
         "dataI": "28-10-2023",
         "dataF": "28-10-2023",
