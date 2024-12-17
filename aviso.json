@@ -2,22 +2,13 @@
      {
 	"id": "1",
         "dataI": "12-12-2024",
-<<<<<<< HEAD
         "dataF": "20-12-2024",
         "tipo": "manutencao",
         "firstTime": "0",
         "versao": 3.0,
 	"msg": "Em razão da reforma na cabine primária de energia elétrica que alimenta nosso Data Center, os serviços do aplicativo Zarc Plantio Certo estarão indisponíveis a partir das 15h do dia 13 de dezembro, com previsão de retorno até o final do dia 19 de dezembro. \nAgradecemos pela compreensão. \nEquipe Zarc Plantio Certo. \n\nAo consultar o Zarc - Plantio Certo, o usuário obtém indicações das distintas taxas de risco (20%, 30% e 40%) de perdas decorrentes de eventos meteorológicos adversos. \n\nPara pesquisar os períodos de plantio: \nselecione um município e uma cultura."
-    },    {
-=======
-        "dataF": "18-12-2024",
-        "tipo": "manutencao",
-        "firstTime": "0",
-        "versao": 3.0,
-	"msg": "Em razão da reforma na cabine primária de energia elétrica que alimenta nosso Data Center, os serviços do aplicativo Zarc Plantio Certo estarão indisponíveis a partir das 15h do dia 13 de dezembro, com previsão de retorno até o final do dia 17 de dezembro. \nAgradecemos pela compreensão. \nEquipe Zarc Plantio Certo. \n\nAo consultar o Zarc - Plantio Certo, o usuário obtém indicações das distintas taxas de risco (20%, 30% e 40%) de perdas decorrentes de eventos meteorológicos adversos. \n\nPara pesquisar os períodos de plantio: \nselecione um município e uma cultura."
-    },
-    {
->>>>>>> cff8ea13a5ce744f2f3e08164133889a0b0014f5
+    },        
+	{
 	"id": "2",
         "dataI": "03-11-2024",
         "dataF": "07-11-2024",
